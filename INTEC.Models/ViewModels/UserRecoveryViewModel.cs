@@ -1,10 +1,7 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations.Schema;
-
-namespace INTEC.Data.Entities
+namespace INTEC.Models.ViewModels
 {
-    [Table("UserRecovery", Schema = "dbo")]
-    public class UserRecovery: BaseEntity
+    public class UserRecoveryViewModel : BaseViewModel
     {
         public Int32 UserId { get; set; }
         public String Token { get; set; }
