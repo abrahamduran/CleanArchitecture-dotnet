@@ -1,8 +1,0 @@
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/bin/Debug/netcoreapp2.0/INTEC.Data.deps.json
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/bin/Debug/netcoreapp2.0/INTEC.Data.dll
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/bin/Debug/netcoreapp2.0/INTEC.Data.pdb
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.csproj.CoreCompileInputs.cache
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.AssemblyInfoInputs.cache
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.AssemblyInfo.cs
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.dll
-/Users/ofrometa/Projects/INTEC.Solution/INTEC.Data/obj/Debug/netcoreapp2.0/INTEC.Data.pdb
