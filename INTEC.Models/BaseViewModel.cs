@@ -5,5 +5,6 @@ namespace INTEC.Models
     {
         public Int32 Id { get; set; }
         public String RowId { get; set; }
+        public String Enrollment { get; set; }
     }
 }
