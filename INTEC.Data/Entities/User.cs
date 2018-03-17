@@ -1,8 +1,10 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace INTEC.Data.Entities
 {
+    [Table("User", Schema = "dbo")]
     public class User : BaseEntity
     {
         [Required]
